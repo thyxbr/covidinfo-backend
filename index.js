@@ -3,7 +3,9 @@ const cors = require('cors');
 const bodyParser = require('body-parser');
 
 // load .env
-require('dotenv-safe').config();
+require('dotenv-safe').config({
+    allowEmptyValues: true
+});
 
 const app = express();
 
