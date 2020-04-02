@@ -1,2 +1,2 @@
-# covidinfo-backend
-Projeto para o Hackathon "Hack For Good", onde devemos encontrar uma solução para disseminar informações corretas sobre o COVID-19.
+# CovidInfo - Backend
+Utilizaremos a tecnologia Node Js, para realizar o desenvolvimento da API, que será consumido pelo APP.
