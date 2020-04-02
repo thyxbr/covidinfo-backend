@@ -4,7 +4,8 @@
   "description": "Utilizaremos a tecnologia Node Js, para realizar o desenvolvimento da API, que será consumido pelo APP.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,13 @@
   "bugs": {
     "url": "https://github.com/thyxbr/covidinfo-backend/issues"
   },
-  "homepage": "https://github.com/thyxbr/covidinfo-backend#readme"
+  "homepage": "https://github.com/thyxbr/covidinfo-backend#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv-safe": "^8.2.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
 }
