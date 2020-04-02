@@ -1,0 +1,19 @@
+{
+  "name": "covidinfo-backend",
+  "version": "1.0.0",
+  "description": "Utilizaremos a tecnologia Node Js, para realizar o desenvolvimento da API, que será consumido pelo APP.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thyxbr/covidinfo-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thyxbr/covidinfo-backend/issues"
+  },
+  "homepage": "https://github.com/thyxbr/covidinfo-backend#readme"
+}
